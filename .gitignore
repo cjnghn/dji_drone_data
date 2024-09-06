@@ -33,3 +33,6 @@ env/
 # Miscellaneous
 .DS_Store
 Thumbs.db
+
+# Only for personal use
+examples/
