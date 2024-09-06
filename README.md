@@ -1,5 +1,11 @@
-Parse DJI's Drone SRT File into Useful Object.
+**Parse DJI Drone SRT Files into a Useful Object.**
 
-Just see example_usage.py and use it.
+Simply refer to `example_usage.py` and follow the instructions.
 
-You can install it by `pip install dji-drone-data`
+You can install it using:
+
+```bash
+pip install dji-drone-data
+```
+
+**Warning:** There is no bearing, speed, or camera gimbal data included. You may want to consider using air data for these purposes.
