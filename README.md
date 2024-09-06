@@ -8,4 +8,5 @@ You can install it using:
 pip install dji-drone-data
 ```
 
-**Warning:** There is no bearing, speed, or camera gimbal data included. You may want to consider using air data for these purposes.
+Warning: Unfortunately, there is no bearing, speed, or camera gimbal data included. It's disappointing and a bit of a hassle, but you may need to consider using air data to fill in these gaps.
+
